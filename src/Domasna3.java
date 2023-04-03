@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+//komentar
 public class Domasna3 {
     public static void main(String[] args) {
         Random random = new Random();
